@@ -1,8 +1,0 @@
-datasets
-numpy
-pandas
-scikit_learn
-transformers
-fastai
-bayesian-optimization
-git+https://github.com/openai/CLIP.git
