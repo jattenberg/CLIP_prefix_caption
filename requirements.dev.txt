@@ -1,0 +1,10 @@
+pipx
+click
+black
+jupyter-black
+jupyter
+tqdm
+matplotlib
+seaborn
+fastbook
+bayesian-optimization

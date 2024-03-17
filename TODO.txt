@@ -1,0 +1,4 @@
+- revive code for crawling / PILing / embedding images from directories from `imagine`
+- read predict.py
+- replace calls to clip to embed images with pre-computed embeddings
+- visualize
